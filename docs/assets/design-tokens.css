@@ -1,0 +1,118 @@
+/* =====================================================================
+   Design Tokens — Instituto Corações em Rede
+   Aplicativo de Cadastro de Pacientes Cardiopatas
+   Paleta derivada da logomarca (coração em tons quentes + vinho profundo).
+   Uso: importe este arquivo e referencie as variáveis (var(--cor-primaria)).
+   ===================================================================== */
+
+:root {
+  /* ---------- Cores de marca ---------- */
+  --cor-primaria:         #E63329; /* Vermelho Coração — ações principais, destaques */
+  --cor-primaria-escura:  #C82D20; /* Vermelho Profundo — hover/active, contraste de botões */
+  --cor-secundaria:       #6E1A14; /* Vinho Corações — títulos, rodapé, áreas escuras */
+  --cor-acento:           #F47A21; /* Laranja Vivo — acentos, prioridade "Alta" */
+  --cor-acento-claro:     #FBE0DD; /* Coral Claro — fundos suaves, realce de seleção */
+
+  /* ---------- Escala do vermelho (tonal) ---------- */
+  --vermelho-50:  #FDF0EE;
+  --vermelho-100: #FBE0DD;
+  --vermelho-200: #F7BBB6;
+  --vermelho-300: #F18B83;
+  --vermelho-400: #EC5A4F;
+  --vermelho-500: #E63329; /* base */
+  --vermelho-600: #C82D20;
+  --vermelho-700: #9A2318;
+  --vermelho-800: #6E1A14;
+  --vermelho-900: #4E120D;
+
+  /* ---------- Escala do laranja ---------- */
+  --laranja-100: #FDE7D2;
+  --laranja-300: #F9A867;
+  --laranja-500: #F47A21; /* base */
+  --laranja-700: #C75D12;
+
+  /* ---------- Neutros ---------- */
+  --neutro-900: #1F2123; /* texto principal */
+  --neutro-700: #3F4346; /* texto forte */
+  --neutro-500: #6B7075; /* texto secundário */
+  --neutro-300: #C9CDD2; /* bordas e divisores */
+  --neutro-200: #E4E7EA;
+  --neutro-100: #F2F4F6; /* fundo de tela */
+  --branco:     #FFFFFF; /* superfícies, cartões */
+
+  /* ---------- Cores semânticas (status) ---------- */
+  --sucesso:        #2E7D4F;
+  --sucesso-fundo:  #E3F2EA;
+  --atencao:        #B26A00;
+  --atencao-fundo:  #FCEFD6;
+  --erro:           #B3261E;
+  --erro-fundo:     #FBE6E4;
+  --info:           #1565C0;
+  --info-fundo:     #E3EEFB;
+
+  /* ---------- Prioridade da necessidade ---------- */
+  --prio-critica: #C82D20; /* vermelho profundo */
+  --prio-alta:    #F47A21; /* laranja */
+  --prio-media:   #F4A91E; /* âmbar */
+  --prio-baixa:   #2E7D4F; /* verde */
+
+  /* ---------- Tipografia ---------- */
+  --fonte-titulo: "Montserrat", "Poppins", system-ui, sans-serif;
+  --fonte-texto:  "Inter", "Source Sans 3", system-ui, sans-serif;
+  --tamanho-base: 16px;
+  --entrelinha:   1.5;
+
+  /* ---------- Espaçamento (grade de 8px) ---------- */
+  --espaco-1: 4px;
+  --espaco-2: 8px;
+  --espaco-3: 16px;
+  --espaco-4: 24px;
+  --espaco-5: 32px;
+  --espaco-6: 48px;
+
+  /* ---------- Raio e elevação ---------- */
+  --raio-pequeno: 6px;
+  --raio-medio:   10px;
+  --raio-grande:  16px;
+  --sombra-suave: 0 1px 3px rgba(31, 33, 35, 0.12);
+  --sombra-media: 0 4px 12px rgba(31, 33, 35, 0.14);
+}
+
+/* =====================================================================
+   Exemplos de aplicação (referência rápida)
+   ===================================================================== */
+
+.btn-primario {
+  background-color: var(--cor-primaria);
+  color: var(--branco);
+  border: none;
+  border-radius: var(--raio-pequeno);
+  padding: var(--espaco-2) var(--espaco-4);
+  font-family: var(--fonte-texto);
+  cursor: pointer;
+}
+.btn-primario:hover,
+.btn-primario:focus-visible {
+  background-color: var(--cor-primaria-escura);
+}
+
+.btn-secundario {
+  background-color: transparent;
+  color: var(--cor-secundaria);
+  border: 1px solid var(--cor-secundaria);
+  border-radius: var(--raio-pequeno);
+  padding: var(--espaco-2) var(--espaco-4);
+}
+
+/* Etiquetas de prioridade — sempre acompanhar de rótulo textual e/ou ícone */
+.badge-prioridade { color: var(--branco); border-radius: 999px; padding: 2px 10px; font-size: 0.85rem; }
+.badge-prioridade.critica { background-color: var(--prio-critica); }
+.badge-prioridade.alta    { background-color: var(--prio-alta); }
+.badge-prioridade.media   { background-color: var(--prio-media); color: var(--neutro-900); }
+.badge-prioridade.baixa   { background-color: var(--prio-baixa); }
+
+/* Foco visível para acessibilidade (WCAG 2.1 AA) */
+:focus-visible {
+  outline: 3px solid var(--cor-acento);
+  outline-offset: 2px;
+}
