@@ -31,7 +31,7 @@ Rubinchuk A, Dulkoski Z, Persaud NA, Wallen M. Evaluating the safety of creatine
 - Fechamento: "Eu sou pediatra e explico a ciência para pais de atletas. Segue o perfil para não cair em promessa de suplemento."
 - Estilo: plano médio, luz natural, câmera na altura dos olhos. Segurar um pote de suplemento e colocá-lo na mesa no fim (gesto de "antes de usar, conversa com o médico"). Legenda grande no primeiro frame: "CREATINA PARA ADOLESCENTE?". Cortes a cada 3 a 4 s, sem música alta, vídeo de até 35 s.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205448_9d9cf060-970a-499b-8a5d-23e62c0d603e.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210855_6e52ebf1-7271-45a8-8a70-aa70ed51a55b.png
 
 ---
 
@@ -53,7 +53,7 @@ Filler G. Creatine supplementation and the young kidney. Nat Rev Nephrol. 2026. 
 - Fechamento: "Segue o perfil para eu te explicar o que dizem os estudos sobre saúde do jovem atleta."
 - Estilo: tom calmo e explicativo, com um desenho simples de rim na tela. Um corte rápido de "mito" e "verdade". Terminar com pergunta nos comentários: "Seu filho já usou suplemento?".
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205448_580e2b3d-d2dc-41c6-8050-9bb25e0abeaf.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210857_36aca4e4-0c43-4680-8fe4-3cbe477468f0.png
 
 ---
 
@@ -74,7 +74,7 @@ Veliz P, Li J, Mattar K, Pero R, Jardine J. Recent trends in past-year steroid u
 - Fechamento: "Segue o perfil para saber como conversar sobre isso em casa."
 - Estilo: gravar sentado no sofá, em tom de conversa. Um corte rápido com letreiro "VESTIÁRIO" e outro "EM CASA". Pergunta final nos comentários.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205447_ce9ce986-6f47-4c76-9d23-7ca08ab8be1a.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210855_49f24c60-4a48-4de4-929c-ba0dfc634190.png
 
 ---
 
@@ -98,7 +98,7 @@ Hoffman ID, Combs K. Creatine supplementation in pediatric orthopedic rehabilita
 - Fechamento: "Segue o perfil. Eu separo o que é ciência do que é promessa."
 - Estilo: gravar em ambiente de clínica ou academia de reabilitação, com faixa elástica ou muleta como cenário. Texto na tela: "ADULTO: SIM, ESTUDOS" e "CRIANÇA: SEM ESTUDOS". Voz firme e ritmo rápido.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205447_0a6008d6-bbd1-4010-9b44-23d422e8e788.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210856_b49ccea5-4cbd-4d1c-90e8-e5515ad539ec.png
 
 ---
 
@@ -122,7 +122,7 @@ Abdulsalam TA, Ismail R. Reversible acute kidney injury and rhabdomyolysis due t
 - Fechamento: "Segue o perfil para aprender a reconhecer sinais de alerta no jovem atleta."
 - Estilo: tom de história, câmera próxima, luz suave. Lista de três sinais de alerta aparecendo na tela, um por vez. Sem dramatizar, e deixar claro que a creatina não foi apontada como causa.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205526_8f23730d-b4df-48eb-bc65-731e50d4b39c.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210856_6516af05-e23e-49e0-832b-26652d40928b.png
 
 ---
 
@@ -146,7 +146,7 @@ Burgac E, Çelik MY, Bulut FD, Kaplan İ, Köseci B, Kara E, et al. Creatine def
 - Fechamento: "Segue o perfil para entender sinais de alerta no desenvolvimento do seu filho."
 - Estilo: tom acolhedor, cenário de consultório ou brinquedoteca, com um brinquedo na mão. Aviso na tela: "ISSO NÃO É SUPLEMENTO DE ACADEMIA". Ritmo calmo e fala pausada.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205458_8f229a62-4ae0-4514-b125-39cdb752162e.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210908_fd3a86ea-8773-46f2-88a5-a091d7e25c36.png
 
 ---
 
@@ -169,7 +169,7 @@ Ferreira AB, Pinto LCC, Taira NMU, Batista VCS, Matuoka CSL, Pinheiro LDF, et al
 - Fechamento: "Segue o perfil para dicas de saúde de crianças e adolescentes com necessidades especiais."
 - Estilo: cenário de academia inclusiva, com pessoas ao fundo se exercitando, tom de esperança e respeito. Linguagem sem rótulos. Texto na tela com os números do estudo.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205457_2d0d1fdc-c54c-4fbc-9688-2f504025fff4.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210908_68ff2524-f6de-43f2-90d3-01d9af612e71.png
 
 ---
 
@@ -192,7 +192,7 @@ Duan C, Wang Z, Wang Q. Creatine formulations and repeated sprint training: effe
 - Fechamento: "Segue o perfil para entender o que a ciência já provou em atletas jovens."
 - Estilo: gravar na quadra ou no campo, com bola na mão, em plano médio. Corte com letreiro "UNIVERSITÁRIOS, NÃO CRIANÇAS". Vídeo curto e ritmo rápido.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205457_63f5e969-93c7-4f7f-97c1-4e800c0b37ba.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210936_77e645e7-8031-47ce-ac6c-9e53675b8fa1.png
 
 ---
 
@@ -215,7 +215,7 @@ Royes LFF, Busanello GL, Godinho DB, Cassol G, Nascimento AS, Lima GC, et al. Cr
 - Fechamento: "Segue o perfil. Eu conto o que a ciência prova e o que ainda é só promessa."
 - Estilo: tom de curiosidade, um ícone de cérebro na tela, texto "SÓ EM ANIMAIS" em destaque. Evitar tom de promessa. Fechar com os três passos de conduta na concussão em lista na tela.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205521_c0a1a7f3-9c3a-4709-a701-cab4b7f98876.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210941_a35b90c5-770f-4c76-828d-876ccd9e1d24.png
 
 ---
 
@@ -238,7 +238,7 @@ Eiras I, Sousa MI, Bandeira Santos A, Oliveira F, Fonseca P. From obesity to big
 - Fechamento: "Segue o perfil para cuidar do corpo e da cabeça do seu filho."
 - Estilo: tom acolhedor e sem julgamento, luz quente, plano mais fechado no rosto. Lista de sinais de alerta na tela. Não mostrar corpo de adolescente. Fechar convidando para conversar com o filho.
 
-**Capa:** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_205528_71570010-c251-4926-8d76-34e23e565166.png
+**Capa (com logo da Clínica Meta):** https://d8j0ntlcm91z4.cloudfront.net/user_31waouz6QM1bGUSwZtSdBOFw60H/hf_20261005_210908_1137451a-5a57-4d0d-a65e-53a87be6dbd0.png
 
 ---
 
@@ -261,6 +261,7 @@ Eiras I, Sousa MI, Bandeira Santos A, Oliveira F, Fonseca P. From obesity to big
 - Capa 5 foi refeita porque a primeira versão foi bloqueada pelo filtro do gerador.
 - Capa 9 foi gerada duas vezes por causa de limite de taxa do serviço.
 - Confira a ortografia do texto dentro de cada capa antes de postar.
+- As capas desta versão usam o logo da Clínica Meta (veja `marca/clinica-meta.md`). A versão anterior, sem logo, foi substituída.
 - As imagens estão hospedadas no Higgsfield. O ambiente bloqueou o download para o repositório.
 - A tarefa agendada que recebi não citava creatina. Assumi pediatria e esporte na primeira execução. Se o tema fixo é creatina, vale ajustar o texto da rotina para constar o tema e o período.
 - Nada aqui substitui avaliação médica individual.
